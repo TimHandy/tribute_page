@@ -1,0 +1,34 @@
+div#main {
+  text-align: center;
+  padding-bottom: 0px;
+}
+
+div#main-text {
+  text-align: justify;
+}
+
+p {
+  padding-bottom: 30px;
+  line-height: 28px;
+}
+
+a {
+  font-size: 1.5em;
+}
+
+img {
+  margin-bottom: 50px;
+  max-width: 700px;
+}
+
+
+.jumbotron {
+    margin-top: 50px;
+}
+
+.inner-container {
+  width: 700px;
+  margin: 0 auto;
+
+
+}
